@@ -29,7 +29,7 @@ Gem::Specification.new do |spec|
     'wiki_uri'          => 'https://github.com/thekompanee/dirty_url/wiki',
   }
 
-  spec.add_dependency             'rails', [">= 3.1", "< 6.0"]
+  spec.add_dependency             'rails', [">= 3.1", "< 7.0"]
 
   spec.add_development_dependency 'rspec', ["~> 3.2"]
 end
